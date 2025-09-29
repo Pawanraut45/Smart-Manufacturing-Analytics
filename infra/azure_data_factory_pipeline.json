@@ -1,0 +1,15 @@
+{
+  "name": "Ingest-Sensor-Data-Pipeline",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopyFromBlobToDW",
+        "type": "Copy",
+        "typeProperties": {
+          "source": "BlobStorage",
+          "sink": "AzureSQLDW"
+        }
+      }
+    ]
+  }
+}
