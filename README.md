@@ -1,4 +1,4 @@
-# P&G Smart Manufacturing Analytics
+# Smart Manufacturing Analytics
 Project: Predictive & Prescriptive Analytics for Manufacturing (Dry Laundry Platform)
 
 **Purpose:** Demonstration project built to match the P&G job description for advanced analytics in smart manufacturing: process & equipment analytics, predictive maintenance/prognostics, data pipelines, model deployment, and CI/CD.
